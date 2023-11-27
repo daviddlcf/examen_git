@@ -1,4 +1,4 @@
 naranja
 pera
 manzana
-platano
+fresa
